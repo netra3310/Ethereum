@@ -1,0 +1,22 @@
+Below are the highest-ranked decentralized cryptocurrency exchanges, according to traffic, liquidity, and trading volumes:
+Uniswap (v3)
+dYdX.
+Curve Finance.
+Kine Protocol.
+PancakeSwap (v2)
+DODO (Ethereum)
+Sun.io.
+ApolloX DEX.
+
+Top 10 Decentralized Crypto Exchanges DEX Aggregator 2022
+https://www.softwaretestinghelp.com/decentralized-crypto-exchanges-dex-aggregator/
+
+
+https://worldcoin.org/articles/what-is-a-dex#toc-3
+Many DEXs use a combination of smart contracts and liquidity pools on top of a blockchain.
+
+https://medium.com/the-ledger-by-spark/dexbot-the-market-making-bitshares-crypto-trading-bot-55cf8606e36#:~:text=DEXBot%20is%20an%20open%2Dsource,that%20use%20the%20BitShares%20blockchain.
+DEXBot is an open-source crypto trading bot, designed by the BitShares community to provide liquidity on more than 15 exchanges, including Bitspark’s Sparkdex, that use the BitShares blockchain.
+
+https://github.com/Codaone/DEXBot
+DEXBot open source
